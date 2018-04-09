@@ -1,0 +1,19 @@
+{
+  "name": "alexa-prototype",
+  "version": "0.0.1",
+  "description": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrowles/alexa-prototype.git"
+  },
+  "scripts": {
+    "start": ""
+  },
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 5.3.0"
+  },
+  "dependencies": {
+    "alexa-sdk": "latest"
+  }
+}

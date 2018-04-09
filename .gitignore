@@ -1,0 +1,18 @@
+# Compiled
+dist/
+.awcache
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Intellij
+.idea
+
+# OS Specific
+.DS_Store
